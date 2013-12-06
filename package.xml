@@ -46,6 +46,10 @@
   <build_depend>rosjava_build_tools</build_depend>
   <build_depend>rosjava_messages</build_depend>
   <build_depend>yocs_msgs</build_depend>
+  <build_depend>rocon_std_msgs</build_depend>
+  <build_depend>gateway_msgs</build_depend>
+  <build_depend>concert_msgs</build_depend>
+  <build_depend>rocon_app_manager_msgs</build_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
@@ -56,10 +60,4 @@
     <!-- Other tools can request additional information be placed here -->
 
   </export>
-<build_depend>yocs_msgs</build_depend>
-<build_depend>ar_track_alvar</build_depend>
-<build_depend>annotations_store</build_depend>
-<build_depend>concert_msgs</build_depend>
-<build_depend>rocon_std_msgs</build_depend>
-<build_depend>rocon_app_manager_msgs</build_depend>
 </package>
