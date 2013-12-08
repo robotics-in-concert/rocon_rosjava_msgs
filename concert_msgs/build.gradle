@@ -14,11 +14,6 @@
  * the License.
  */
 
-dependencies {
-  compile project(':rocon_std_msgs')
-  compile project(':gateway_msgs')
-}
-
 try {
     project.catkin.tree.pkgs['concert_msgs'].generateUnofficialMessageArtifact(project)
 } catch (NullPointerException e) {
