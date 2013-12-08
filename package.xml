@@ -44,7 +44,6 @@
   <build_depend>ar_track_alvar</build_depend>
   <build_depend>rosjava_bootstrap</build_depend>
   <build_depend>rosjava_build_tools</build_depend>
-  <build_depend>rosjava_messages</build_depend>
   <build_depend>yocs_msgs</build_depend>
   <build_depend>rocon_std_msgs</build_depend>
   <build_depend>gateway_msgs</build_depend>
