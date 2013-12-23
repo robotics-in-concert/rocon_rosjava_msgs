@@ -1,0 +1,5 @@
+# Use with the core rosjava sources
+[
+{'git': {'local-name': 'rocon_rosjava_msgs', 'version': 'hydro-devel', 'uri':'https://github.com/robotics-in-concert/rocon_rosjava_msgs'}},
+]
+
