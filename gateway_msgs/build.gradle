@@ -14,7 +14,6 @@
  * the License.
  */
 
-println("Name: " + project.name)
 try {
     project.catkin.tree.generateMessageArtifact(project, project.name)
 } catch (NullPointerException e) {
