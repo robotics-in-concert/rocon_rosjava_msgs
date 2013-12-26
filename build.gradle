@@ -15,7 +15,7 @@
  */
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '1.8'
+    gradleVersion = '1.9'
 }
 
 buildscript {
@@ -63,4 +63,4 @@ subprojects {
     publishMavenJavaPublicationToMavenRepository : deploys jar's to devel/share/maven
     installApp : assembles java apps in the _subproject_/build directories.
 */
-defaultTasks 'install'
+defaultTasks 'publishMavenJavaPublicationToMavenRepository'
