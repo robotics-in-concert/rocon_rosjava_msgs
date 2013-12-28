@@ -15,9 +15,8 @@
  */
 
 include 'yocs_msgs'
-include 'ar_track_alvar'
-include 'annotations_store'
 include 'rocon_std_msgs'
 include 'gateway_msgs'
 include 'concert_msgs'
 include 'rocon_app_manager_msgs'
+include 'rocon_annotation_msgs'
