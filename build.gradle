@@ -42,10 +42,11 @@ project.catkin.tree.generate()
 
 allprojects {
     /*
-      A github url provides a good standard unique name for your project
-      Example below, but you may wish to switch to your own unique url.
+      This uses the official rosjava messages maven group to keep compatibility.
+      This is important as we're often building unreleased artifacts for 
+      official sources that have had version bumps.
     */
-    group 'com.github.rosjava.rocon_rosjava_msgs'
+    group 'org.ros.rosjava_messages'
     version = project.catkin.pkg.version
 }
 
