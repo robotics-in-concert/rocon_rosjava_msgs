@@ -26,4 +26,5 @@
   <build_depend>concert_msgs</build_depend>
   <build_depend>rocon_app_manager_msgs</build_depend>
   <build_depend>rocon_annotation_msgs</build_depend>
+  <build_depend>waiterbot_msgs</build_depend>
 </package>
