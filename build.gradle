@@ -40,6 +40,10 @@ buildscript {
 apply plugin: 'catkin'
 project.catkin.tree.generate()
 
+project.catkin.tree.generate()
+
+project.catkin.tree.generate()
+
 allprojects {
     /*
       This uses the official rosjava messages maven group to keep compatibility.
