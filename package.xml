@@ -28,4 +28,5 @@
   <build_depend>rocon_annotation_msgs</build_depend>
 <build_depend>rocon_service_pair_msgs</build_depend>
 <build_depend>rocon_service_pair_msgs</build_depend>
+<build_depend>rocon_interaction_msgs</build_depend>
 </package>
