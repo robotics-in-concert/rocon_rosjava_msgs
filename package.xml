@@ -11,7 +11,7 @@
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rosjava_build_tools</build_depend>
   <build_depend>genjava</build_depend>
-  <build_depend>rosjava_messages
+  <build_depend>rosjava_messages</build_depend>
   <build_depend>concert_msgs</build_depend>
   <build_depend>concert_service_msgs</build_depend>
   <build_depend>concert_workflow_engine_msgs</build_depend>
